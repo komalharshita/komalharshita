@@ -10,6 +10,9 @@
 - 🌱 Learning **Data Structures & Algorithms** in **Python** and **C**
 - 📚 Working on my digital poetry archive, **"Across Her Time"**
 
+- Github Stats -
+- [![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalharshita)](https://github.com/komalharshita/github-readme-stats)
+
 ---
 
 ### 🛠️ Tech & Tools
