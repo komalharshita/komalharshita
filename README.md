@@ -3,7 +3,7 @@
 ### 👋 Hey there, I'm **Komal!**
 
 # 💫 About Me:
-CSE Sophomore | Aspiring Business Analyst | Fluent in Python, Poetry & Passion 🩵
+CSE Sophomore | Aspiring Business and Data Analyst | Fluent in Python, Poetry & Passion 🩵
 
 
 ## 🌐 Socials:
