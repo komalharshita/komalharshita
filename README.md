@@ -1,5 +1,4 @@
 ### 🌸💖 Hey there, I'm **Komal!** (｡♥‿♥｡)
-<img width="400" height="250" alt="ChatGPT Image Sep 14, 2025, 05_53_45 PM" src="https://github.com/user-attachments/assets/4dc0f0a7-d7e9-49ba-bb72-34edb8a20a85" />
 
 # About Me:
 🌷 Computer Science Engineering student passionate about tech & design ✿
