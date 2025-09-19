@@ -4,8 +4,6 @@
 🌷 Computer Science Engineering student passionate about tech & design ✿
 📖 Exploring coding, data, and digital creativity ❀
 💗 Interested in Business Analysis & creative problem-solving ๑
-🎀 Love blending logic with aesthetics (design + code) ✧ 
-💌 Learning, building, and sharing along the journey ◕
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kokokomali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/komalharshita) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@komal.sony234) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/strawberryblck) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:komal.sony234@gmail.com) 
@@ -20,14 +18,4 @@
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=komalharshita&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=komalharshita&limit=5&theme=rose&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=komalharshita&icon=7&color=5)](https://visitcount.itsvg.in)
-
-
-<p align="center">✨ “Code like poetry – clean, expressive, and from the soul.” ✨</p>
