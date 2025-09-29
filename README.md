@@ -1,9 +1,9 @@
-### Hey there, I'm **Komal! 👋🏼 ** 
+### 👋 Hey there, I'm **Komal!** 
 
 # About Me:
 🌷 Computer Science Engineering student
 
-📖 Exploring coding, data, and digital creativity 
+📖 Currently learning MS Excel, Power BI , SQL and programming languages like Python and R  
 
 💗 Interested in Business and Data Analysis & problem-solving 
 
