@@ -1,4 +1,4 @@
-### Hey there, I'm **Komal!** 
+### Hey there, I'm **Komal! 👋🏼 ** 
 
 # About Me:
 🌷 Computer Science Engineering student
