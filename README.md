@@ -22,9 +22,7 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=komalharshita&theme=dracula&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400" alt="Komal Harshita's GitHub Trophies" />
 </p>
-<p align="center">
-  <img align = "left" width = 768 height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=komalharshita&theme=dracula&radius=38" alt="komalharshita's Activity Graph" />
-</p>
+
 
 <div align="center">
 <picture>
