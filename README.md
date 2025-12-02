@@ -26,11 +26,13 @@
   <img align = "left" width = 768 height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=komalharshita&theme=dracula&radius=38" alt="komalharshita's Activity Graph" />
 </p>
 
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/komalharshita/komalharshita/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/komalharshita/komalharshita/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/komalharshita/komalharshita/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
-  #### View my Portfolio: https://komal-harshita.vercel.app/
+  ### View my Portfolio: https://komal-harshita.vercel.app/
 
