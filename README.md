@@ -1,7 +1,6 @@
 <img width="768" height="180" alt="github-header-banner" src="https://github.com/user-attachments/assets/ebd87b2d-72ab-42bd-a1be-55bde06500be" />
 
 
-# About Me:
 - 🌷 Computer Science Engineering student
 - 📖 Currently learning MS Excel, Power BI , SQL and programming languages like Python and R  
 - 💗 Interested in Business and Data Analysis & problem-solving
@@ -32,5 +31,5 @@
 </picture>
 </div>
 
-  ### View my Portfolio: https://komal-harshita.vercel.app/
+  #### View my Portfolio: https://komal-harshita.vercel.app/
 
