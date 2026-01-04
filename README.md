@@ -19,7 +19,7 @@
 ##  GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=komalharshita&theme=dracula&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400" alt="Komal Harshita's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=komalharshita&theme=tokyonight&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400" alt="Komal Harshita's GitHub Trophies" />
 </p>
 
 
