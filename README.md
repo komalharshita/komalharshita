@@ -50,11 +50,9 @@
 
 
 
-##  GitHub Trophies
+##  My GitHub Trophies
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=komalharshita&theme=tokyonight&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400" alt="Komal Harshita's GitHub Trophies" />
-</p>
+![](https://github-trophies.vercel.app/?username=komalharshita&theme=discord&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400)
 
 
 <div align="center">
@@ -65,5 +63,5 @@
 </picture>
 </div>
 
-  #### View my Portfolio: https://komal-harshita.vercel.app/
+  ### View my Portfolio: https://komal-harshita.vercel.app/
 
