@@ -54,6 +54,14 @@
 
 ![](https://github-trophies.vercel.app/?username=komalharshita&theme=discord&no-frame=true&no-bg=true&margin-w=1&cache_seconds=86400)
 
+### GitHub Stats 
+
+
+<div align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=komalharshita&theme=prussian" width="28%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komalharshita&theme=prussian" width="28%" height="auto" style="display: inline;" />
+</div>
+
 
 <div align="center">
 <picture>
