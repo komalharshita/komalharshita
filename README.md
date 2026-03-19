@@ -71,5 +71,5 @@
 </picture>
 </div>
 
-  ### View my Portfolio: https://komal-harshita.vercel.app/
+  ### View my Portfolio: https://komalharshita.vercel.app/
 
