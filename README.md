@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=1A0026,3D0066,BF5FFF,FF2D78&height=220&section=header&text=KOMAL%20HARSHITA&fontColor=FFE4FF&fontSize=44&fontAlignY=40&fontAlign=50&desc=Data%20Analyst%20·%20CS%20Engineer%20·%20Problem%20Solver&descAlignY=62&descColor=BF5FFF&descSize=16&animation=fadeIn)](https://github.com/komalharshita)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=1A0026,3D0066,BF5FFF,FF2D78&height=180&section=header&text=KOMAL%20HARSHITA&fontColor=FFE4FF&fontSize=44&fontAlignY=40&fontAlign=50&desc=Data%20Analyst%20·%20CS%20Engineer%20·%20Problem%20Solver&descAlignY=62&descColor=BF5FFF&descSize=16&animation=fadeIn)](https://github.com/komalharshita)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=900&color=BF5FFF&background=00000000&center=true&vCenter=true&width=540&lines=Transforming+raw+data+into+decisions;Building+BI+dashboards+%26+ML+pipelines;Exploring+SQL+%7C+Power+BI+%7C+Python+%7C+R;Open+to+internships+%26+collaborations)](https://git.io/typing-svg)
 
-<br/>
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=komalharshita&label=PROFILE+VIEWS&color=BF5FFF&style=for-the-badge&labelColor=1A0026)](https://github.com/komalharshita)
 [![Portfolio](https://img.shields.io/badge/💜_Portfolio-Visit_Site-BF5FFF?style=for-the-badge&labelColor=1A0026)](https://komalharshita.vercel.app/)
@@ -101,7 +101,6 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=komalharshita&theme=radical" width="38%" height="auto" style="display: inline;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=komalharshita&theme=radical" width="38%" height="auto" style="display: inline;" />
- 
 </div>
 
 ---
@@ -122,10 +121,6 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🦋_View_My_Portfolio-komalharshita.vercel.app-BF5FFF?style=for-the-badge&labelColor=1A0026)](https://komalharshita.vercel.app/)
-
-*"Data is the new oil — and I'm here to refine it."*
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=1A0026,3D0066,BF5FFF,FF2D78&height=100&section=footer&animation=fadeIn)](https://github.com/komalharshita)
+*"Data is the new oil, and I'm here to refine it."*
 
 </div>
