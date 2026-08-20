@@ -29,56 +29,36 @@
 
 <div align="center">
 
-### 🟣 Languages
- 
-![Python](https://img.shields.io/badge/Python-BF5FFF?style=for-the-badge&logo=python&logoColor=FFE4FF&labelColor=1A0026)
-![R](https://img.shields.io/badge/R-BF5FFF?style=for-the-badge&logo=r&logoColor=FFE4FF&labelColor=1A0026)
- 
-### 🟣 Data & Databases
- 
-![MySQL](https://img.shields.io/badge/MySQL-FF2D78?style=for-the-badge&logo=mysql&logoColor=FFE4FF&labelColor=1A0026)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF2D78?style=for-the-badge&logo=postgresql&logoColor=FFE4FF&labelColor=1A0026)
-![SQLite](https://img.shields.io/badge/SQLite-FF2D78?style=for-the-badge&logo=sqlite&logoColor=FFE4FF&labelColor=1A0026)
-![MongoDB](https://img.shields.io/badge/MongoDB-FF2D78?style=for-the-badge&logo=mongodb&logoColor=FFE4FF&labelColor=1A0026)
- 
-### 🟣 Visualization & BI
- 
-![Power BI](https://img.shields.io/badge/Power_BI-BF5FFF?style=for-the-badge&logo=powerbi&logoColor=FFE4FF&labelColor=1A0026)
-![Tableau](https://img.shields.io/badge/Tableau-BF5FFF?style=for-the-badge&logo=tableau&logoColor=FFE4FF&labelColor=1A0026)
-![Plotly](https://img.shields.io/badge/Plotly-BF5FFF?style=for-the-badge&logo=plotly&logoColor=FFE4FF&labelColor=1A0026)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-BF5FFF?style=for-the-badge&logo=matplotlib&logoColor=FFE4FF&labelColor=1A0026)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-BF5FFF?style=for-the-badge&logo=google-analytics&logoColor=FFE4FF&labelColor=1A0026)
- 
-### 🟣 ML & Data Science
- 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FF79C6?style=for-the-badge&logo=scikit-learn&logoColor=FFE4FF&labelColor=1A0026)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF79C6?style=for-the-badge&logo=pytorch&logoColor=FFE4FF&labelColor=1A0026)
-![pandas](https://img.shields.io/badge/pandas-FF79C6?style=for-the-badge&logo=pandas&logoColor=FFE4FF&labelColor=1A0026)
-![NumPy](https://img.shields.io/badge/NumPy-FF79C6?style=for-the-badge&logo=numpy&logoColor=FFE4FF&labelColor=1A0026)
-![Jupyter](https://img.shields.io/badge/Jupyter-FF79C6?style=for-the-badge&logo=jupyter&logoColor=FFE4FF&labelColor=1A0026)
-![Kaggle](https://img.shields.io/badge/Kaggle-FF79C6?style=for-the-badge&logo=kaggle&logoColor=FFE4FF&labelColor=1A0026)
- 
-### 🟣 Cloud & DevOps
- 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-FF2D78?style=for-the-badge&logo=google-cloud&logoColor=FFE4FF&labelColor=1A0026)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-FF2D78?style=for-the-badge&logo=microsoft-azure&logoColor=FFE4FF&labelColor=1A0026)
-![Databricks](https://img.shields.io/badge/Databricks-FF2D78?style=for-the-badge&logo=databricks&logoColor=FFE4FF&labelColor=1A0026)
-![Git](https://img.shields.io/badge/Git-FF2D78?style=for-the-badge&logo=git&logoColor=FFE4FF&labelColor=1A0026)
-![GitHub](https://img.shields.io/badge/GitHub-FF2D78?style=for-the-badge&logo=github&logoColor=FFE4FF&labelColor=1A0026)
- 
-### 🟣 Tools & Platforms
- 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-BF5FFF?style=for-the-badge&logo=microsoft-excel&logoColor=FFE4FF&labelColor=1A0026)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-BF5FFF?style=for-the-badge&logo=microsoft-powerpoint&logoColor=FFE4FF&labelColor=1A0026)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-BF5FFF?style=for-the-badge&logo=microsoft-office&logoColor=FFE4FF&labelColor=1A0026)
-![Streamlit](https://img.shields.io/badge/Streamlit-BF5FFF?style=for-the-badge&logo=streamlit&logoColor=FFE4FF&labelColor=1A0026)
-![Vercel](https://img.shields.io/badge/Vercel-BF5FFF?style=for-the-badge&logo=vercel&logoColor=FFE4FF&labelColor=1A0026)
-![Railway](https://img.shields.io/badge/Railway-BF5FFF?style=for-the-badge&logo=railway&logoColor=FFE4FF&labelColor=1A0026)
-![VS Code](https://img.shields.io/badge/VS_Code-FF79C6?style=for-the-badge&logo=visual-studio-code&logoColor=FFE4FF&labelColor=1A0026)
-![Notion](https://img.shields.io/badge/Notion-FF79C6?style=for-the-badge&logo=notion&logoColor=FFE4FF&labelColor=1A0026)
-![Jira](https://img.shields.io/badge/Jira-FF79C6?style=for-the-badge&logo=jira&logoColor=FFE4FF&labelColor=1A0026)
-![Miro](https://img.shields.io/badge/Miro-FF79C6?style=for-the-badge&logo=miro&logoColor=FFE4FF&labelColor=1A0026)
-![Canva](https://img.shields.io/badge/Canva-FF79C6?style=for-the-badge&logo=canva&logoColor=FFE4FF&labelColor=1A0026)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/>
 
 </div>
 
